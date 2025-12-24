@@ -3,3 +3,4 @@
 This is awesome project.
 ## How to start
 Author
+## Conflict
